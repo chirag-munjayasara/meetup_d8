@@ -1,4 +1,4 @@
-uuid: 718ddd30-2905-4a17-9b24-75790fe2068e
+uuid: d522aaaa-f25f-4f71-8ba1-83196cd5666c
 langcode: en
 status: true
 dependencies: {  }
@@ -7,7 +7,7 @@ _core:
 id: feedback
 label: 'Website feedback'
 recipients:
-  - admin@admin.com
+  - chirag@chirag.com
 reply: ''
 weight: 0
 message: 'Your message has been sent.'
